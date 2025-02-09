@@ -31,3 +31,9 @@ el archivo se encuentra en el mismo directorio donde se ejecuta el script, debem
 al directorio actual por medio de './'; Por ejemplo './Token.txt', ya que si solo indicamos 'token.txt' el script
 interpretara este segundo argumento como el valor real del token y no hara una lectura del archivo en cuestión para
 extraer el valor del token que será utilizado para la autenticación.
+
+___________________________________________________________________________________________________________________
+
+Resta decir que una vez utilizado este comando por primera vez en un repositorio, se puede navegar facilmente por
+el historial de comandos previamente ejecutados para utilizarlo nuevamente sin tener que escribirlo desde cero
+nuevamente.
